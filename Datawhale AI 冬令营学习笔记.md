@@ -75,17 +75,3 @@
 - **学习交流群**：共享经验与反馈
 
 感谢 Datawhale 提供学习机会！更多信息请访问 [Datawhale 活动页面](https://www.datawhale.cn/activity/110/21/76?rankingPage=1)。
-
-![微信图片_20241208220131](C:\Users\Jason\OneDrive\Desktop\datawhale note\微信图片_20241208220131.png)
-
-![微信图片_20241208230526](C:\Users\Jason\OneDrive\Desktop\datawhale note\微信图片_20241208230526.png)
-
-![613a6d558fb7977d575450ed0f9f95f](D:\wechat data\WeChat Files\wxid_cnkadat9tz0322\FileStorage\Temp\613a6d558fb7977d575450ed0f9f95f.png)
-
-![微信图片_20241209000139](C:\Users\Jason\OneDrive\Desktop\datawhale note\微信图片_20241209000139.png)
-
-![微信图片_20241209000144](C:\Users\Jason\OneDrive\Desktop\datawhale note\微信图片_20241209000144.png)
-
-![微信图片_20241209000601](C:\Users\Jason\OneDrive\Desktop\datawhale note\微信图片_20241209000601.png)
-
-![微信图片_20241209000606](C:\Users\Jason\OneDrive\Desktop\datawhale note\微信图片_20241209000606.png)
